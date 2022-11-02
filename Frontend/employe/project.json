@@ -1,0 +1,32 @@
+[{
+    "Name": "Sarath",
+    "Id": 454577,
+    "project": "walmart",
+    "project_id":234,
+    "allottedproject":"none"
+    
+     
+    
+  },{
+    "Name": "Shem",
+    "Id": 524757,
+    "project": "Health Care",
+    "project_id":234,
+    "allottedproject":"none"
+  },
+  
+    {
+      "Name": "varun",
+      "Id": 456564,
+      "project": "Health Care",
+      "project_id":234,
+    "allottedproject":"none"
+  },
+  {
+    "Name": "das",
+    "Id": 456594,
+    "project": "tsg",
+    "project_id":234,
+    "allottedproject":"none"
+}
+]

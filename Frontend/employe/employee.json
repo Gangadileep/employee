@@ -1,0 +1,43 @@
+[{
+    "Id":1,
+    "Name": "Sarath",
+    "Age": 23,
+    "Company": "walmart",
+    "position":"dev"
+     
+    
+  },{
+    "Id":2,
+    "Name": "anjitha",
+    "Age": 24,
+    "Company": "walmart",
+    "position":"dev"
+     
+  },
+  
+    {
+       "Id":3,
+        "Name": "Ganga",
+        "Age":24,
+        "Company": "ust",
+        "position":"dev"
+         
+  },
+  {
+    "Id":4,
+    "Name": "libin",
+    "Age": 24,
+    "Company": "ust",
+    "position":"dev"
+     
+},
+{
+  "Id":5,
+  "Name": "Vikram",
+  "Age": 22,
+  "Company": "ust",
+  "position":"dev"
+   
+}
+
+]
